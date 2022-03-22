@@ -173,15 +173,15 @@ h1 {
   width: 80%;
   margin: 2rem 0 0 0;
 }
-.crew_image {
+.tech_image {
   box-sizing: border-box;
   margin: 0 0 10rem 0;
   width: 34.75vw;
 }
-.crew_image img{
+.tech_image img{
     width: 100%;
 }
-.crew_image hr {
+.tech_image hr {
   display: none;
 }
 
@@ -246,12 +246,12 @@ h1 {
     margin-left: 20%;
     margin-right: 20%;
   }
-  .crew_image {
+  .tech_image {
     width: 100%;
     text-align: center;
     margin: 0%;
   }
-  .crew_image img {
+  .tech_image img {
     width: 60%;
   }
 }
@@ -322,13 +322,13 @@ h1 {
     margin-left: 10%;
     margin-right: 10%;
   }
-  .crew_image {
+  .tech_image {
     order: 1;
   }
-  .crew_image img {
+  .tech_image img {
     width: 40%;
   }
-  .crew_image hr {
+  .tech_image hr {
     display: inline-block;
     width: 90%;
     border-width: 0;
