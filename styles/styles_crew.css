@@ -9,7 +9,7 @@ body {
 .home_body {
   position: relative;
   padding-top: 2.5rem;
-  background-image: url("assets/crew/background-crew-desktop.jpg");
+  background-image: url("../assets/crew/background-crew-desktop.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -163,7 +163,7 @@ h1 {
 @media only screen and (max-width: 900px) {
   .home_body {
     padding-top: 0%;
-    background-image: url(assets/crew/background-crew-tablet.jpg);
+    background-image: url(../assets/crew/background-crew-tablet.jpg);
     position: relative;
   }
   .nav_bar {
@@ -280,7 +280,7 @@ h1 {
   }
   .home_body {
     padding-top: 0%;
-    background-image: url(assets/crew/background-crew-mobile.jpg);
+    background-image: url(../assets/crew/background-crew-mobile.jpg);
     position: relative;
     text-align: center;
   }
